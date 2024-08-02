@@ -3,5 +3,7 @@ This is a second line in this file.
 
 The next line in Alice
 Next line after adding Patrick
-Change in github web
 
+
+
+Change in github web. And one more string after adding the next generation of Patrick.
