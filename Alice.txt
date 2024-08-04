@@ -7,6 +7,8 @@ Next line after adding Patrick
 
 
 This is from github!
+And this is from console
+
 
 Change in github web. And one more string after adding the next generation of Patrick.
 
