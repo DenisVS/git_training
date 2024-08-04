@@ -12,7 +12,7 @@ And this is from console
 
 Change in github web. And one more string after adding the next generation of Patrick.
 
-
+This line from console in the end of the file.
 
 Mere a little change in working AAA
 
